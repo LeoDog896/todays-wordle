@@ -1,5 +1,5 @@
 {
   "tasks": {
-    "grab": "deno run --allow-net --allow-write=data.json index.ts && deno fmt"
+    "grab": "deno run --allow-net --allow-write=data.json,README.md index.ts && deno fmt"
   }
 }
