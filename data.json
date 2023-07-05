@@ -1,23 +1,23 @@
 {
   "yesterday": {
-    "id": 1546,
-    "solution": "hotel",
-    "print_date": "2023-07-03",
-    "days_since_launch": 744,
-    "editor": "Tracy Bennett"
-  },
-  "today": {
     "id": 847,
     "solution": "irate",
     "print_date": "2023-07-04",
     "days_since_launch": 745,
     "editor": "Tracy Bennett"
   },
-  "tomorrow": {
+  "today": {
     "id": 674,
     "solution": "venom",
     "print_date": "2023-07-05",
     "days_since_launch": 746,
+    "editor": "Tracy Bennett"
+  },
+  "tomorrow": {
+    "id": 1447,
+    "solution": "windy",
+    "print_date": "2023-07-06",
+    "days_since_launch": 747,
     "editor": "Tracy Bennett"
   }
 }
