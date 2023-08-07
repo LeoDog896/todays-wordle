@@ -7,7 +7,7 @@ uses the ny times API: `https://www.nytimes.com/svc/wordle/v2/YYYY-MM-DD.json`
 <details>
     <summary>click to see yesterday's wordle</summary>
 
-    anode
+    polyp
 
 </details>
 
@@ -16,7 +16,7 @@ uses the ny times API: `https://www.nytimes.com/svc/wordle/v2/YYYY-MM-DD.json`
 <details>
     <summary>click to see today's wordle</summary>
 
-    polyp
+    brook
 
 </details>
 
@@ -25,6 +25,6 @@ uses the ny times API: `https://www.nytimes.com/svc/wordle/v2/YYYY-MM-DD.json`
 <details>
     <summary>click to see tomorrow's wordle</summary>
 
-    brook
+    bully
 
 </details>
