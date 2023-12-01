@@ -1,23 +1,23 @@
 {
   "yesterday": {
-    "id": 793,
-    "solution": "sushi",
-    "print_date": "2023-11-29",
-    "days_since_launch": 893,
-    "editor": "Tracy Bennett"
-  },
-  "today": {
     "id": 1541,
     "solution": "resin",
     "print_date": "2023-11-30",
     "days_since_launch": 894,
     "editor": "Tracy Bennett"
   },
-  "tomorrow": {
+  "today": {
     "id": 1731,
     "solution": "taken",
     "print_date": "2023-12-01",
     "days_since_launch": 895,
+    "editor": "Tracy Bennett"
+  },
+  "tomorrow": {
+    "id": 543,
+    "solution": "genre",
+    "print_date": "2023-12-02",
+    "days_since_launch": 896,
     "editor": "Tracy Bennett"
   }
 }
