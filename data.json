@@ -1,23 +1,23 @@
 {
   "yesterday": {
-    "id": 882,
-    "solution": "worst",
-    "print_date": "2023-12-04",
-    "days_since_launch": 898,
-    "editor": "Tracy Bennett"
-  },
-  "today": {
     "id": 1113,
     "solution": "young",
     "print_date": "2023-12-05",
     "days_since_launch": 899,
     "editor": "Tracy Bennett"
   },
-  "tomorrow": {
+  "today": {
     "id": 2156,
     "solution": "woman",
     "print_date": "2023-12-06",
     "days_since_launch": 900,
+    "editor": "Tracy Bennett"
+  },
+  "tomorrow": {
+    "id": 611,
+    "solution": "sleep",
+    "print_date": "2023-12-07",
+    "days_since_launch": 901,
     "editor": "Tracy Bennett"
   }
 }
