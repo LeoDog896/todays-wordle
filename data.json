@@ -1,23 +1,23 @@
 {
   "yesterday": {
-    "id": 698,
-    "solution": "house",
-    "print_date": "2023-12-11",
-    "days_since_launch": 905,
-    "editor": "Tracy Bennett"
-  },
-  "today": {
     "id": 1494,
     "solution": "these",
     "print_date": "2023-12-12",
     "days_since_launch": 906,
     "editor": "Tracy Bennett"
   },
-  "tomorrow": {
+  "today": {
     "id": 1525,
     "solution": "spent",
     "print_date": "2023-12-13",
     "days_since_launch": 907,
+    "editor": "Tracy Bennett"
+  },
+  "tomorrow": {
+    "id": 1021,
+    "solution": "would",
+    "print_date": "2023-12-14",
+    "days_since_launch": 908,
     "editor": "Tracy Bennett"
   }
 }
