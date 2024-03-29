@@ -1,23 +1,23 @@
 {
   "yesterday": {
-    "id": 812,
-    "solution": "stung",
-    "print_date": "2024-03-27",
-    "days_since_launch": 1012,
-    "editor": "Tracy Bennett"
-  },
-  "today": {
     "id": 2214,
     "solution": "speak",
     "print_date": "2024-03-28",
     "days_since_launch": 1013,
     "editor": "Tracy Bennett"
   },
-  "tomorrow": {
+  "today": {
     "id": 1119,
     "solution": "realm",
     "print_date": "2024-03-29",
     "days_since_launch": 1014,
+    "editor": "Tracy Bennett"
+  },
+  "tomorrow": {
+    "id": 1594,
+    "solution": "force",
+    "print_date": "2024-03-30",
+    "days_since_launch": 1015,
     "editor": "Tracy Bennett"
   }
 }
