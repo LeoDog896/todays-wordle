@@ -1,23 +1,23 @@
 {
   "yesterday": {
-    "id": 1153,
-    "solution": "glide",
-    "print_date": "2024-05-24",
-    "days_since_launch": 1070,
-    "editor": "Tracy Bennett"
-  },
-  "today": {
     "id": 1770,
     "solution": "titan",
     "print_date": "2024-05-25",
     "days_since_launch": 1071,
     "editor": "Tracy Bennett"
   },
-  "tomorrow": {
+  "today": {
     "id": 1288,
     "solution": "bevel",
     "print_date": "2024-05-26",
     "days_since_launch": 1072,
+    "editor": "Tracy Bennett"
+  },
+  "tomorrow": {
+    "id": 1937,
+    "solution": "skier",
+    "print_date": "2024-05-27",
+    "days_since_launch": 1073,
     "editor": "Tracy Bennett"
   }
 }
