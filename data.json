@@ -1,23 +1,23 @@
 {
   "yesterday": {
-    "id": 734,
-    "solution": "shaft",
-    "print_date": "2024-07-20",
-    "days_since_launch": 1127,
-    "editor": "Tracy Bennett"
-  },
-  "today": {
     "id": 1086,
     "solution": "speck",
     "print_date": "2024-07-21",
     "days_since_launch": 1128,
     "editor": "Tracy Bennett"
   },
-  "tomorrow": {
+  "today": {
     "id": 1828,
     "solution": "cadet",
     "print_date": "2024-07-22",
     "days_since_launch": 1129,
+    "editor": "Tracy Bennett"
+  },
+  "tomorrow": {
+    "id": 1065,
+    "solution": "prong",
+    "print_date": "2024-07-23",
+    "days_since_launch": 1130,
     "editor": "Tracy Bennett"
   }
 }
