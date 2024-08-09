@@ -1,23 +1,23 @@
 {
   "yesterday": {
-    "id": 789,
-    "solution": "macaw",
-    "print_date": "2024-08-07",
-    "days_since_launch": 1145,
-    "editor": "Tracy Bennett"
-  },
-  "today": {
     "id": 1396,
     "solution": "saucy",
     "print_date": "2024-08-08",
     "days_since_launch": 1146,
     "editor": "Tracy Bennett"
   },
-  "tomorrow": {
+  "today": {
     "id": 1865,
     "solution": "ounce",
     "print_date": "2024-08-09",
     "days_since_launch": 1147,
+    "editor": "Tracy Bennett"
+  },
+  "tomorrow": {
+    "id": 1899,
+    "solution": "medic",
+    "print_date": "2024-08-10",
+    "days_since_launch": 1148,
     "editor": "Tracy Bennett"
   }
 }
