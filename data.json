@@ -1,23 +1,23 @@
 {
   "yesterday": {
-    "id": 1020,
-    "solution": "shell",
-    "print_date": "2024-10-02",
-    "days_since_launch": 1201,
-    "editor": "Tracy Bennett"
-  },
-  "today": {
     "id": 945,
     "solution": "wagon",
     "print_date": "2024-10-03",
     "days_since_launch": 1202,
     "editor": "Tracy Bennett"
   },
-  "tomorrow": {
+  "today": {
     "id": 813,
     "solution": "title",
     "print_date": "2024-10-04",
     "days_since_launch": 1203,
+    "editor": "Tracy Bennett"
+  },
+  "tomorrow": {
+    "id": 1697,
+    "solution": "miner",
+    "print_date": "2024-10-05",
+    "days_since_launch": 1204,
     "editor": "Tracy Bennett"
   }
 }
