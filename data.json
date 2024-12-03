@@ -1,23 +1,23 @@
 {
   "yesterday": {
-    "id": 2020,
-    "solution": "mauve",
-    "print_date": "2024-12-01",
-    "days_since_launch": 1261,
-    "editor": "Tracy Bennett"
-  },
-  "today": {
     "id": 563,
     "solution": "guile",
     "print_date": "2024-12-02",
     "days_since_launch": 1262,
     "editor": "Tracy Bennett"
   },
-  "tomorrow": {
+  "today": {
     "id": 1364,
     "solution": "shaky",
     "print_date": "2024-12-03",
     "days_since_launch": 1263,
+    "editor": "Tracy Bennett"
+  },
+  "tomorrow": {
+    "id": 1303,
+    "solution": "crypt",
+    "print_date": "2024-12-04",
+    "days_since_launch": 1264,
     "editor": "Tracy Bennett"
   }
 }
