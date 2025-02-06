@@ -1,23 +1,23 @@
 {
   "yesterday": {
-    "id": 1160,
-    "solution": "tooth",
-    "print_date": "2025-02-04",
-    "days_since_launch": 1326,
-    "editor": "Tracy Bennett"
-  },
-  "today": {
     "id": 1440,
     "solution": "pedal",
     "print_date": "2025-02-05",
     "days_since_launch": 1327,
     "editor": "Tracy Bennett"
   },
-  "tomorrow": {
+  "today": {
     "id": 951,
     "solution": "pupil",
     "print_date": "2025-02-06",
     "days_since_launch": 1328,
+    "editor": "Tracy Bennett"
+  },
+  "tomorrow": {
+    "id": 1164,
+    "solution": "swath",
+    "print_date": "2025-02-07",
+    "days_since_launch": 1329,
     "editor": "Tracy Bennett"
   }
 }
