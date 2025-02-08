@@ -1,23 +1,23 @@
 {
   "yesterday": {
-    "id": 951,
-    "solution": "pupil",
-    "print_date": "2025-02-06",
-    "days_since_launch": 1328,
-    "editor": "Tracy Bennett"
-  },
-  "today": {
     "id": 1164,
     "solution": "swath",
     "print_date": "2025-02-07",
     "days_since_launch": 1329,
     "editor": "Tracy Bennett"
   },
-  "tomorrow": {
+  "today": {
     "id": 1221,
     "solution": "steep",
     "print_date": "2025-02-08",
     "days_since_launch": 1330,
+    "editor": "Tracy Bennett"
+  },
+  "tomorrow": {
+    "id": 1134,
+    "solution": "bonus",
+    "print_date": "2025-02-09",
+    "days_since_launch": 1331,
     "editor": "Tracy Bennett"
   }
 }
