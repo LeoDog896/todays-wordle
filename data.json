@@ -1,23 +1,23 @@
 {
   "yesterday": {
-    "id": 1082,
-    "solution": "clove",
-    "print_date": "2025-02-21",
-    "days_since_launch": 1343,
-    "editor": "Tracy Bennett"
-  },
-  "today": {
     "id": 620,
     "solution": "cream",
     "print_date": "2025-02-22",
     "days_since_launch": 1344,
     "editor": "Tracy Bennett"
   },
-  "tomorrow": {
+  "today": {
     "id": 984,
     "solution": "otter",
     "print_date": "2025-02-23",
     "days_since_launch": 1345,
+    "editor": "Tracy Bennett"
+  },
+  "tomorrow": {
+    "id": 1965,
+    "solution": "gland",
+    "print_date": "2025-02-24",
+    "days_since_launch": 1346,
     "editor": "Tracy Bennett"
   }
 }
