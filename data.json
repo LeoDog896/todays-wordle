@@ -1,23 +1,23 @@
 {
   "yesterday": {
-    "id": 1965,
-    "solution": "gland",
-    "print_date": "2025-02-24",
-    "days_since_launch": 1346,
-    "editor": "Tracy Bennett"
-  },
-  "today": {
     "id": 1124,
     "solution": "dryer",
     "print_date": "2025-02-25",
     "days_since_launch": 1347,
     "editor": "Tracy Bennett"
   },
-  "tomorrow": {
+  "today": {
     "id": 650,
     "solution": "award",
     "print_date": "2025-02-26",
     "days_since_launch": 1348,
+    "editor": "Tracy Bennett"
+  },
+  "tomorrow": {
+    "id": 1142,
+    "solution": "lodge",
+    "print_date": "2025-02-27",
+    "days_since_launch": 1349,
     "editor": "Tracy Bennett"
   }
 }
