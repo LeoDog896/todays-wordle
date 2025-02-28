@@ -1,23 +1,23 @@
 {
   "yesterday": {
-    "id": 650,
-    "solution": "award",
-    "print_date": "2025-02-26",
-    "days_since_launch": 1348,
-    "editor": "Tracy Bennett"
-  },
-  "today": {
     "id": 1142,
     "solution": "lodge",
     "print_date": "2025-02-27",
     "days_since_launch": 1349,
     "editor": "Tracy Bennett"
   },
-  "tomorrow": {
+  "today": {
     "id": 1624,
     "solution": "fuzzy",
     "print_date": "2025-02-28",
     "days_since_launch": 1350,
+    "editor": "Tracy Bennett"
+  },
+  "tomorrow": {
+    "id": 1365,
+    "solution": "hover",
+    "print_date": "2025-03-01",
+    "days_since_launch": 1351,
     "editor": "Tracy Bennett"
   }
 }
